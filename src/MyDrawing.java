@@ -18,6 +18,7 @@ public class MyDrawing extends JPanel {
 	}
 	
 	/**
+	 * 
 	 * @param args
 	 */
 	public static void main(String[] args) {
